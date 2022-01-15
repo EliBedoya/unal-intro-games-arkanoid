@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4340171632619095907}
   - component: {fileID: 4340171632619095900}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BlockBody (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,7 +93,7 @@ GameObject:
   - component: {fileID: 4340171632871218952}
   - component: {fileID: 4340171632871218959}
   - component: {fileID: 4340171632871218953}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BigBlockTile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -155,3 +155,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _type: 1
   _color: 1
+  _score: 10

@@ -8,11 +8,11 @@ public class Ball : MonoBehaviour
     private const float BALL_VELOCITY_MIN_AXIS_VALUE = 0.5f;
     
     [SerializeField]
-    private float _initSpeed = 5;
+    private float _initSpeed = 4;
     [SerializeField]
-    private float _minSpeed = 4;
+    private float _minSpeed = 2;
     [SerializeField]
-    private float _maxSpeed = 7;
+    private float _maxSpeed = 8;
     
     private Rigidbody2D _rb;
     private Collider2D _collider;
